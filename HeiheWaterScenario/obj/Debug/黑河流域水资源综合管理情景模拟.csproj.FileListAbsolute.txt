@@ -1,0 +1,28 @@
+C:\Users\QiQi\Desktop\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\bin\Debug\黑河流域水资源综合管理情景模拟.exe.config
+C:\Users\QiQi\Desktop\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\bin\Debug\黑河流域水资源综合管理情景模拟.exe
+C:\Users\QiQi\Desktop\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\bin\Debug\黑河流域水资源综合管理情景模拟.pdb
+C:\Users\QiQi\Desktop\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.Form1.resources
+C:\Users\QiQi\Desktop\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.Properties.Resources.resources
+C:\Users\QiQi\Desktop\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.csproj.GenerateResource.Cache
+C:\Users\QiQi\Desktop\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.exe
+C:\Users\QiQi\Desktop\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.pdb
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\bin\Debug\黑河流域水资源综合管理情景模拟.exe.config
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.exe
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.pdb
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\bin\Debug\黑河流域水资源综合管理情景模拟.exe
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\bin\Debug\黑河流域水资源综合管理情景模拟.pdb
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.Properties.Resources.resources
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.csproj.GenerateResource.Cache
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\bin\Debug\ZedGraph.dll
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟 - 副本\黑河流域水资源综合管理情景模拟\bin\Debug\黑河流域水资源综合管理情景模拟.exe.config
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟 - 副本\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.exe
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟 - 副本\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.pdb
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟 - 副本\黑河流域水资源综合管理情景模拟\bin\Debug\黑河流域水资源综合管理情景模拟.exe
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟 - 副本\黑河流域水资源综合管理情景模拟\bin\Debug\黑河流域水资源综合管理情景模拟.pdb
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟 - 副本\黑河流域水资源综合管理情景模拟\bin\Debug\ZedGraph.dll
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟 - 副本\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.csprojResolveAssemblyReference.cache
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟 - 副本\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.Properties.Resources.resources
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟 - 副本\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.csproj.GenerateResource.Cache
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.csprojResolveAssemblyReference.cache
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.frmWaterScenario.resources
+D:\张琪\INTEREST\黑河系统开发项目\黑河流域水资源综合管理情景模拟 - 副本\黑河流域水资源综合管理情景模拟\obj\Debug\黑河流域水资源综合管理情景模拟.frmWaterScenario.resources
